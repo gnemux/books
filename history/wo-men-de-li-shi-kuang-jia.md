@@ -8,7 +8,7 @@
 
 人类产生于约 1500万 年前，人类文明诞生于约 260万 年前\(石器时代\)
 
-[https://zh.wikipedia.org/wiki/%E4%BA%BA%E7%B1%BB%E6%BC%94%E5%8C%96%E5%8E%86%E7%A8%8B](https://zh.wikipedia.org/wiki/%E4%BA%BA%E7%B1%BB%E6%BC%94%E5%8C%96%E5%8E%86%E7%A8%8B "人类演化历程")
+[人类演化历史](https://zh.wikipedia.org/wiki/%E4%BA%BA%E7%B1%BB%E6%BC%94%E5%8C%96%E5%8E%86%E7%A8%8B)
 
 ### **上古**
 
