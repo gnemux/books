@@ -18,7 +18,7 @@
 
 太阳系距离 [银河中心](https://zh.wikipedia.org/wiki/%E9%8A%80%E5%BF%83) 约26,000光年，在有着浓密气体和尘埃，被称为 [猎户臂](https://zh.wikipedia.org/wiki/%E7%8D%B5%E6%88%B6%E8%87%82) 的螺旋臂的内侧边缘
 
-![](/assets/milky-way.jpg)
+![](/assets/milky-way.jpg@30p)
 
 ### 地球 - 月球
 
