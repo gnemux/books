@@ -12,13 +12,21 @@
 
 银河系诞生于约 136亿 年前
 
-是一个包含 [太阳系](https://zh.wikipedia.org/wiki/%E5%A4%AA%E9%99%BD%E7%B3%BB) 的 [棒旋星系](https://zh.wikipedia.org/wiki/%E6%A3%92%E6%97%8B%E6%98%9F%E7%B3%BB)。
+是一个包含 [太阳系](https://zh.wikipedia.org/wiki/太陽系) 的 [棒旋星系](https://zh.wikipedia.org/wiki/棒旋星系)。
 
-直径介于100,000 [光年](https://zh.wikipedia.org/wiki/%E5%85%89%E5%B9%B4) 至180,000光年。估计拥有1,000亿至4,000亿颗 [恒星](https://zh.wikipedia.org/wiki/%E6%81%86%E6%98%9F)，并可能有1,000亿颗 [行星](https://zh.wikipedia.org/wiki/%E8%A1%8C%E6%98%9F)。
+直径介于100,000 [光年](https://zh.wikipedia.org/wiki/光年) 至180,000光年。估计拥有1,000亿至4,000亿颗 [恒星](https://zh.wikipedia.org/wiki/恆星)，并可能有1,000亿颗 [行星](https://zh.wikipedia.org/wiki/行星)。
 
 ![](/assets/milky-way.jpg)
 
-外面的引力会影响星系棒，在银河系盘面的恒星和星际介质结构是4条螺旋臂，
+外面的引力会影响星系棒，在银河系盘面的恒星和星际介质结构是4条螺旋臂
+
+* 人马座旋臂
+
+* 猎户座旋臂 \[太阳系所在\]
+
+* 英仙座旋臂
+
+* 3000秒差距臂
 
 
 
