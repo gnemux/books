@@ -16,5 +16,7 @@
 
 ## Philosophy
 
+* [01.我们认知的边界](philosophy/01wo-men-ren-zhi-de-bian-jie.md)
+
 ## Technology
 
