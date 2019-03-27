@@ -6,7 +6,7 @@
 
 ## History
 
-* [01.简单历史框架](history/wo-men-de-li-shi-kuang-jia.md)
+* [01.我们的世界发生过什么](history/wo-men-de-li-shi-kuang-jia.md)
 
 ## Nature
 
