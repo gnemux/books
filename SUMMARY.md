@@ -13,7 +13,7 @@
 ## Nature
 
 * [01.我们在哪里](nature/01wo-men-zai-na-li.md)
-* 02.我们是什么
+* [02.我们是什么](nature/02wo-men-shi-shi-yao.md)
 
 ## History
 
