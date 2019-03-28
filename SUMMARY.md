@@ -8,7 +8,7 @@
 
 * [01.我们知道和不知道的](philosophy/01wo-men-ren-zhi-de-bian-jie.md)
 * [02.什么是对的什么是错的](philosophy/02shi-yao-shi-dui-de-shi-yao-shi-cuo-de.md)
-* [03.什么是美好的什么是丑陋的](philosophy/03shi-yao-shi-mei-hao-de-shi-yao-shi-chou-lou-de.md)
+* [03.什么是美好的](philosophy/03shi-yao-shi-mei-hao-de-shi-yao-shi-chou-lou-de.md)
 
 ## Nature
 
