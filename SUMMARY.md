@@ -11,7 +11,7 @@
 * [02.什么是对的什么是错的](philosophy/02shi-yao-shi-dui-de-shi-yao-shi-cuo-de.md)
 * [03.什么是美好的什么是丑陋的](philosophy/03shi-yao-shi-mei-hao-de-shi-yao-shi-chou-lou-de.md)
 * [04.我们应该怎样看待死亡](philosophy/04wo-men-ying-gai-zen-yang-kan-dai-si-wang.md)
-* 05.生命的意义是什么
+* [05.生命的意义是什么](philosophy/05sheng-ming-de-yi-yi-shi-shi-yao.md)
 
 ## Nature
 
