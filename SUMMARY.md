@@ -19,7 +19,7 @@
 
 ## History
 
-* [01.我们的世界发生过什么](history/wo-men-de-li-shi-kuang-jia.md)
+* [01.我们的世界经历过什么](history/wo-men-de-li-shi-kuang-jia.md)
 
 ## Science
 
