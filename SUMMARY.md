@@ -26,6 +26,11 @@
 
 * [01.科学是什么](science/01ke-xue-shi-shi-yao.md)
 * [02.科学有哪些分类](science/02ke-xue-you-na-xie-fen-lei.md)
+* 03.科学在如何发展
 
 ## Art
+
+* [01.艺术是什么](art/01yi-zhu-shi-shi-yao.md)
+* 02.艺术有哪些分类
+* [03.我们如何欣赏艺术](art/03wo-men-ru-he-xin-shang-yi-zhu.md)
 
