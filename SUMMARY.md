@@ -2,7 +2,7 @@
 
 ## Intro
 
-* [00.Introduction](README.md)
+* [00.简介](README.md)
 * [01.认知的基础](01ren-zhi-de-zhun-ze.md)
 
 ## Philosophy
