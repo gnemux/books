@@ -31,6 +31,8 @@
 ## Art
 
 * [01.艺术是什么](art/01yi-zhu-shi-shi-yao.md)
-* 02.艺术有哪些分类
+* [02.艺术有哪些分类](art/02yi-zhu-you-na-xie-fen-lei.md)
 * [03.我们如何欣赏艺术](art/03wo-men-ru-he-xin-shang-yi-zhu.md)
+
+## Misc
 
