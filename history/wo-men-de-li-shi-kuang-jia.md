@@ -40,5 +40,7 @@
 
 * 公元20世纪至今: 第一二次世界大战，冷战，登月，联合国与WTO
 
+![](/assets/world-war-II.jpg)![](/assets/the-cold-war-russia-america.jpg)![](/assets/moon-landing.png)![](/assets/united-nations.png)
+
 
 
