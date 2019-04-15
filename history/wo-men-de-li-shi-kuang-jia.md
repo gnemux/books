@@ -35,5 +35,5 @@
 
 * 公元20世纪至今: 第一二次世界大战，冷战，登月，联合国与WTO
 
-![](../.gitbook/assets/world-war-ii.jpg)![](../.gitbook/assets/the-cold-war-russia-america.jpg)![](../.gitbook/assets/moon-landing.png)![](../.gitbook/assets/united-nations.png)
+![](/assets/world-war-II.jpg)![](../.gitbook/assets/the-cold-war-russia-america.jpg)![](../.gitbook/assets/moon-landing.png)![](../.gitbook/assets/united-nations.png)
 
