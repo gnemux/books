@@ -1,4 +1,4 @@
-# Introduction
+# 00.简介
 
 践行费曼学习法 \( Feynman Technique Of Study\)，献给亲爱的 Cynthia
 
@@ -20,7 +20,7 @@ _To My Cynthia_
 
 从【科学】理性 与【艺术】感性 的角度，理解世界的美好与价值所在，找到自己愿意为之奋斗一生的目标。
 
-![](.gitbook/assets/feynman-technique.png)
+![](../.gitbook/assets/feynman-technique.png)
 
 希望通过不多于100个字的方式，描述任何一点知识点，5分钟说明白任何事物
 
