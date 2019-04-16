@@ -4,7 +4,7 @@
 
 ## Intro
 
-* [00.简介](intro/readme.md)
+* [00.简介](intro/intro.md)
 * [01.认知的基础](intro/01ren-zhi-de-zhun-ze.md)
 
 ## Philosophy
@@ -23,7 +23,7 @@
 
 ## History
 
-* [01.我们的世界经历过什么](history/wo-men-de-li-shi-kuang-jia.md)
+* [01.我们经历了什么](history/wo-men-de-li-shi-kuang-jia.md)
 
 ## Science
 

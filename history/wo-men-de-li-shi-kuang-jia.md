@@ -1,4 +1,4 @@
-# 01.我们的世界经历过什么
+# 01.我们经历了什么
 
 简单的历史框架
 
@@ -35,5 +35,5 @@
 
 * 公元20世纪至今: 第一二次世界大战，冷战，登月，联合国与WTO
 
-![](/assets/world-war-II.jpg)![](../.gitbook/assets/the-cold-war-russia-america.jpg)![](../.gitbook/assets/moon-landing.png)![](../.gitbook/assets/united-nations.png)
+![](../.gitbook/assets/world-war-ii%20%281%29.jpg)![](../.gitbook/assets/the-cold-war-russia-america.jpg)![](../.gitbook/assets/moon-landing.png)![](../.gitbook/assets/united-nations.png)
 
